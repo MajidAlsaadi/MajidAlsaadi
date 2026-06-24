@@ -78,5 +78,5 @@ GitHub, Microsoft 365, Cloudflare, Office 365 SMTP
 ## 📫 Contact
 
 - GitHub: [MajidAlsaadi](https://github.com/MajidAlsaadi)
-- Portfolio: Coming soon
+- Portfolio: [majidalsaadi.github.io](https://majidalsaadi.github.io)
 - Focus: Web Apps • Business Systems • Power BI • Power Platform
